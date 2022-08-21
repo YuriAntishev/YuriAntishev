@@ -57,7 +57,7 @@
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
 
-### Back end Developing with Node.js(Fastify.js).
+### Back end Developing with Node.js(Fastify.js), Python(Django).
 <br />
 
 ### Front end Developing with Modern Front-end Libraries and Frameworks such as React and Next.
