@@ -50,3 +50,20 @@
     </td>
   </tr>
 </table>
+  
+  <div align="center"><h1 font-weight="bold">What Can I do?</h1></div>
+  
+  ## Full Stack Development
+<div>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
+
+### Blockchain Developing(Cryptocurrency, NFT, DeFi, DAO) with web3.js, solidity, solana, Moralis, IFPS
+<br />
+
+### Back end Developing with Node.js(Express.js), Python(Django, Flask), Ruby on Rails, PHP(Laravel).
+<br />
+
+### Front end Developing with Modern Front-end Libraries and Frameworks such as React, Vue, Next, Nuxt.
+<br />
+
+</div>
