@@ -6,7 +6,6 @@
  <p>📌Passionate about Javascript & Typescript, experienced backend developer, he is always looking for challenging problems to tackle.</p>
  <p>📝Ambitious, hardworking, and communicative - always staying in touch and keeping his customers informed about project progress.</p>
 <div>
-  <br>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
   <table>
   <tr>
