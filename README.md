@@ -67,8 +67,5 @@
     <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="100"/>
     </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="100"/>
-    </td>
   </tr>
 </table>
