@@ -3,8 +3,8 @@
 </p>
 <div>
  <p>⚡IT enthusiast and perfectionist, who pursues his goals relentlessly and seeks to excel at every single task he performs.</p>
- <p>📌Passionate about Javascript & Typescript, experienced backend developer, he is always looking for challenging problems to tackle.</p>
- <p>📝Ambitious, hardworking, and communicative - always staying in touch and keeping his customers informed about project progress.</p>
+ <p>📌Passionate about Javascript, Golang and Python, experienced fullstack developer, he is always looking for challenging problems to tackle.</p>
+ <p>📝Ambitious, hardworking and communicative - always staying in touch and keeping his customers informed about project progress.</p>
 <div>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
   <table>
@@ -60,7 +60,7 @@
 ### Backend Developing with Node.js, Golang and Python.
 <br />
 
-### Frontend Developing with Modern Front-end Libraries and Frameworks such as React and Next.
+### Frontend Developing with Modern Frontend Libraries and Frameworks such as React and Next.
 <br />
 
 </div>
