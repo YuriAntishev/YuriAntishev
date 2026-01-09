@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cambria&size=24&&pause=1000&color=0831E4&width=435&lines=Full-Stack+Developer;Good+Team-Player;Passionate%20Developer;Specialized%20in%20JavaScript%20and%20TypeScript;React,%20Vue,%20Svelte%20for%20the%20Front-End;Node.js,%20Python%20for%20the%20Back-End;Always%20learning%20new%20things&center=true&width=500&height=50" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cambria&size=24&&pause=1000&color=0831E4&width=435&lines=Full-Stack+Developer;Good+Team-Player;Passionate%20Developer;Specialized%20in%20JavaScript%20and%20TypeScript;React,%20Vue,%20Svelte%20for%20the%20Frontend;Node.js, Golang,%20Python%20for%20the%20Backend;Always%20learning%20new%20things&center=true&width=500&height=50" alt="Typing SVG" /></a>
 </p>
 <div>
  <p>⚡IT enthusiast and perfectionist, who pursues his goals relentlessly and seeks to excel at every single task he performs.</p>
@@ -53,14 +53,14 @@
   
   <div align="center"><h1 font-weight="bold">What Can I do?</h1></div>
   
-  ## Full Stack Development
+  ## Fullstack Development
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
 
-### Back end Developing with Node.js(Fastify.js), Python(Django).
+### Backend Developing with Node.js, Golang and Python.
 <br />
 
-### Front end Developing with Modern Front-end Libraries and Frameworks such as React and Next.
+### Frontend Developing with Modern Front-end Libraries and Frameworks such as React and Next.
 <br />
 
 </div>
